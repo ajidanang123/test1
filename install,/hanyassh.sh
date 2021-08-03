@@ -3,7 +3,7 @@
 # 
 # ==================================================
 
-GitUser="fisabiliyusri"
+GitUser="ajidanang123"
 #wget https://github.com/${GitUser}/
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
