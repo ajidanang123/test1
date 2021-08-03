@@ -3,7 +3,7 @@
 # 
 # ==================================================
 
-GitUser="fisabiliyusri"
+GitUser="ajidanang123"
 #wget https://github.com/${GitUser}/
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
@@ -16,10 +16,10 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 country=ID
 state=Indonesia
 locality=Indonesia
-organization=SL
-organizationalunit=SL
+organization=AD
+organizationalunit=AD
 commonname=0.0.0.0
-email=sulaiman.xl@facebook.com
+email=ajidanang11092001@gmail.com
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/${GitUser}/test1/main/password"
